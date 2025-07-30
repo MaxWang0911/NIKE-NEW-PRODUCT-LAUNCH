@@ -53,17 +53,7 @@ Nike, facing fierce competition and shifting consumer trends, seeks to launch a 
 - Marketing campaigns focused on:
   - Instagram, TikTok influencers
   - Smart shoe tech and sustainability narratives
-  - Customization and community engagement
-
----
-
-## 📁 Files Included
-
-| File | Description |
-|------|-------------|
-| `Regression-Analysis-on-Survey-data.xlsx` | Full conjoint dataset, clustering, regression model |
-| `Repoet.pdf` | Final report and visual presentation |
-| `Mockups & Campaigns` | Canva-designed campaign visuals and social strategies |
+  - Customisation and community engagement
 
 ---
 
